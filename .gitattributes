@@ -1,0 +1,7 @@
+# Treat all files as text
+* text=auto
+
+# Specific overrides
+*.svg text
+*.js text
+*.json text
