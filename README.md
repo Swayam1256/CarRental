@@ -84,5 +84,3 @@ Authentication & Security:
 JWT (JSON Web Tokens)
 
 bcrypt
-
-🌐 Summary
